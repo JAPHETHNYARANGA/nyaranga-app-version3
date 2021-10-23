@@ -15,7 +15,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 public class ContactUs extends AppCompatActivity {
-
+//COMMENT
     @BindView(R.id.et_to) EditText etTo;
     @BindView(R.id.et_message) EditText etMessage;
     @BindView(R.id.et_subject) EditText etSubject;
