@@ -15,7 +15,8 @@
         android:theme="@style/Theme.Nyarangasocialappversion2"
         tools:replace="android:appComponentFactory"
         tools:targetApi="p">
-        <activity android:name=".controller.ui.ContactUs"></activity>
+        <activity android:name=".controller.ui.CreateAccountActivity"></activity>
+        <activity android:name=".controller.ui.ContactUs" />
         <activity android:name=".controller.ui.DetailActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
