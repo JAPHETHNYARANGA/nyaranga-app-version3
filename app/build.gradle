@@ -70,7 +70,12 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics'
 
     //firebase authentication
+
     implementation 'com.google.firebase:firebase-auth'
+
+    //material design
+
+    implementation 'com.google.android.material:material:1.4.0'
 
 
 }
