@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11395907860",
+    "project_id": "nyaranga-moringaproject-app",
+    "storage_bucket": "nyaranga-moringaproject-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11395907860:android:92e4b5cc2325e62480c201",
+        "android_client_info": {
+          "package_name": "com.moringaschool.nyaranga_social_app_version2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11395907860-m3vbv47745gc7t6jjc99fs7n50j7v71v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-l1Wbs7KI-mb3Sh74gbiu1-xCQpUvT4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11395907860-m3vbv47745gc7t6jjc99fs7n50j7v71v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
