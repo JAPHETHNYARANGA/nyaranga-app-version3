@@ -15,15 +15,17 @@
         android:theme="@style/Theme.Nyarangasocialappversion2"
         tools:replace="android:appComponentFactory"
         tools:targetApi="p">
-        <activity android:name=".controller.ui.LoginActivity"></activity>
-        <activity android:name=".controller.ui.CreateAccountActivity" />
-        <activity android:name=".controller.ui.ContactUs" />
-        <activity android:name=".controller.ui.DetailActivity">
+        <activity android:name=".controller.ui.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".controller.ui.CreateAccountActivity" />
+        <activity android:name=".controller.ui.ContactUs" />
+        <activity android:name=".controller.ui.DetailActivity">
+
         </activity>
         <activity android:name=".controller.ui.MainActivity">
             <meta-data
