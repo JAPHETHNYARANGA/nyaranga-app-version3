@@ -17,6 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello there, Welcome Back"
+        android:textStyle="bold"
         android:textSize="40sp" />
     <TextView
         android:id="@+id/slogan_name"
