@@ -1,6 +1,7 @@
 package com.moringaschool.nyaranga_social_app_version2.controller.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
+import com.moringaschool.nyaranga_social_app_version2.R;
 
 import android.os.Bundle;
 
