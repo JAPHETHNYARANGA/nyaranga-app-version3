@@ -72,6 +72,6 @@ public class CreateAccountActivity extends AppCompatActivity implements View.OnC
                         Toast.makeText(CreateAccountActivity.this, "Authentication failed.",
                                 Toast.LENGTH_SHORT).show();
                     }
-                };
+                });
     }
 }
