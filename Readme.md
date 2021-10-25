@@ -19,6 +19,8 @@ For developers, clone the app from the following link https://github.com/JAPHETH
 
 * Android Os
 * Java
+* Glide
+
 
 
 # Contact
