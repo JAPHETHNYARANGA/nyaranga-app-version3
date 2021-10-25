@@ -28,4 +28,4 @@ For developers, clone the app from the following link https://github.com/JAPHETH
 email the developer on nyaranga4@gmail.com.
 
 ## License
-this project is under MIT license.
+this project is under the  MIT license.
