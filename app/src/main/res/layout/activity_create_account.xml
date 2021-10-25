@@ -87,7 +87,16 @@
 
     </LinearLayout>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/myid"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/bg_round"
+        android:src="@drawable/avatar"/>
+
     <TextView
+        android:id="@+id/myid"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Create Account"
