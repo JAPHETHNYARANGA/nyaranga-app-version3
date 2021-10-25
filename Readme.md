@@ -5,7 +5,7 @@ This is a project that consumes the github api endpoints and returns values as p
 
 
 ## Screenshots
-![App image](app/src/Assets/screenshot4.png ){ width=50% height=50% }
+![App image](app/src/Assets/screenshot4.png )
 
 ![App image](app/src/Assets/screenshot5.png)
 ![App image](app/src/Assets/screenshot1.png)
